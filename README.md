@@ -51,11 +51,11 @@ Sou estudante de **Engenharia de Software** e estou sempre explorando novas tecn
   *Um jogo interativo similar ao jogo da velha*  
   **Tecnologias:** JavaScript, HTML, CSS  
 
-
+<!--- and 
 ---
 
 ## 🏆 Top Languages
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ojplc&layout=compact&theme=radical)
-
+--->
 ---

@@ -29,9 +29,10 @@ Sou estudante de **Engenharia de Software** e estou sempre explorando novas tecn
 
 ## 🌟 Projetos em Destaque
 
-- 🦊[**Safe zone**](https://github.com/jj-viana/safe-zone)
-  *Dashboards e coleta de dados na web de criminalidade no DF e entorno*
-  **Tecnologias:** C#, .NET, NextJS, NodeJS
+- 🦊[**Safe zone**](https://github.com/jj-viana/safe-zone)  
+  *Dashboards e coleta de dados na web de criminalidade no DF e entorno*  
+  **Tecnologias:** C#, .NET, NextJS, NodeJS  
+
 
 - 🤖 [**Projeto Clara**](https://github.com/ojplc/clara)  
   *Aplicativo em Kotlin que utiliza a API LiteRT do google para rodar LLMs localmente no dispositivo*  
